@@ -1,59 +1,70 @@
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+# 💎 COFL Addons
 
-Note also that the patches are built against "unrenamed" MCP source code (aka
-srgnames) - this means that you will not be able to read them directly against
-normal code.
+> ⚒️ The ultimate Hypixel SkyBlock utility mod – now smarter, safer, and faster!
 
-Source pack installation information:
+---
 
-Standalone source installation
-==============================
+## ✨ Features
 
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
+🔒 **Scam Prevention**  
+Automatically detects and warns you about common scams in trades, auctions, and other interactions. Stay safe at all times!
 
-Step 2: Once you have a command window up in the folder that the downloaded material was placed, type:
+🎯 **Auto Sniper**  
+Instantly snipe underpriced items from the Auction House – before anyone else even sees them!
 
-Windows: "gradlew setupDecompWorkspace"
-Linux/Mac OS: "./gradlew setupDecompWorkspace"
+📈 **AH Flipper**  
+Analyzes prices and suggests profitable flips in real-time, so you can make bank while AFK.
 
-Step 3: After all that finished, you're left with a choice.
-For eclipse, run "gradlew eclipse" (./gradlew eclipse if you are on Mac/Linux)
+🔍 **Bazaar Profit Checker**  
+Track item margins and detect potential bazaar flips directly in-game.
 
-If you preffer to use IntelliJ, steps are a little different.
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Once it's finished you must close IntelliJ and run the following command:
+💬 **Custom Alerts & GUI Enhancements**  
+Improved user interface, clean HUD, and smart alerts so you never miss a deal (or a threat).
 
-"gradlew genIntellijRuns" (./gradlew genIntellijRuns if you are on Mac/Linux)
+🚨 **Anti-Fake API Warnings**  
+Flags fake stats/APIs used in scams or misleading trades.
 
-Step 4: The final step is to open Eclipse and switch your workspace to /eclipse/ (if you use IDEA, it should automatically start on your project)
+⚙️ **Modular Design**  
+Enable only the features you want. Lightweight, optimized, and customizable.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can run "gradlew --refresh-dependencies" to refresh the local cache. "gradlew clean" to reset everything {this does not effect your code} and then start the processs again.
+---
 
-Should it still not work, 
-Refer to #ForgeGradle on EsperNet for more information about the gradle environment.
+## 📦 Installation
 
-Tip:
-If you do not care about seeing Minecraft's source code you can replace "setupDecompWorkspace" with one of the following:
-"setupDevWorkspace": Will patch, deobfusicated, and gather required assets to run minecraft, but will not generated human readable source code.
-"setupCIWorkspace": Same as Dev but will not download any assets. This is useful in build servers as it is the fastest because it does the least work.
+1. Download the latest `.jar` release from the [Releases](https://github.com/CoflAddons/CoflAddons) page.
+2. Drop it into your `.minecraft/mods` folder (Forge or Fabric).
+3. Launch Minecraft and enjoy the power of COFL Addons!
 
-Tip:
-When using Decomp workspace, the Minecraft source code is NOT added to your workspace in a editable way. Minecraft is treated like a normal Library. Sources are there for documentation and research purposes and usually can be accessed under the 'referenced libraries' section of your IDE.
+---
 
-Forge source installation
-=========================
-MinecraftForge ships with this code and installs it as part of the forge
-installation process, no further action is required on your part.
+## 🧠 Requirements
 
-LexManos' Install Video
-=======================
-https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
+- Minecraft 1.8.9   
+- Forge or Fabric Loader  
 
-For more details update more often refer to the Forge Forums:
-http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+
+---
+
+## 🤝 Credits
+
+Maintained by the COFL Team ❤️  
+Massive thanks to the Hypixel SkyBlock community for feedback and support!
+
+---
+
+## 🛠️ Support & Community
+
+Join the **COFL Discord Server** for support, suggestions, or just to flex your flips!  
+[🌐 Click here to join](https://discord.gg/No Discord Yet
+
+---
+
+## 📢 Disclaimer
+
+COFL Addons is a community-made project and is not affiliated with Hypixel. Use at your own risk.  
+We do **not** support cheating or breaking Hypixel’s rules.
+
+---
+
+💼 **Happy flipping, and stay safe out there!** 💼
+
