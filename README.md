@@ -1,70 +1,88 @@
-# 💎 COFL Addons
+<div align="center">
 
-> ⚒️ The ultimate Hypixel SkyBlock utility mod – now smarter, safer, and faster!
+# 💎 CoflAddons
+
+### The ultimate Hypixel SkyBlock utility mod — smarter, safer, faster.
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.9+-brightgreen)]()
+[![Fabric](https://img.shields.io/badge/Loader-Fabric-blue)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](#-support--community)
+
+</div>
 
 ---
 
 ## ✨ Features
 
-🔒 **Scam Prevention**  
-Automatically detects and warns you about common scams in trades, auctions, and other interactions. Stay safe at all times!
-
-🎯 **Auto Sniper**  
-Instantly snipe underpriced items from the Auction House – before anyone else even sees them!
-
-📈 **AH Flipper**  
-Analyzes prices and suggests profitable flips in real-time, so you can make bank while AFK.
-
-🔍 **Bazaar Profit Checker**  
-Track item margins and detect potential bazaar flips directly in-game.
-
-💬 **Custom Alerts & GUI Enhancements**  
-Improved user interface, clean HUD, and smart alerts so you never miss a deal (or a threat).
-
-🚨 **Anti-Fake API Warnings**  
-Flags fake stats/APIs used in scams or misleading trades.
-
-⚙️ **Modular Design**  
-Enable only the features you want. Lightweight, optimized, and customizable.
+| | Feature | What it does |
+|---|---|---|
+| 🔒 | **Scam Prevention** | Detects and warns you about common scam patterns in trades, auctions, and chat. |
+| 🎯 | **Flip Sniper** | Surfaces underpriced Auction House listings the moment they appear, so you can act first. |
+| 📈 | **AH Flipper** | Analyzes prices in real time and highlights profitable flips. |
+| 🔍 | **Bazaar Profit Checker** | Tracks item margins and spots potential Bazaar flips in-game. |
+| 💬 | **Custom Alerts & HUD** | Clean HUD, configurable alerts, and Discord webhook export so you never miss a deal — or a threat. |
+| 🚨 | **Anti-Fake API Warnings** | Flags fake stats and spoofed APIs used in scams and misleading trades. |
+| ⚙️ | **Modular Design** | Toggle only what you want. Lightweight, optimized, fully customizable. |
 
 ---
 
 ## 📦 Installation
 
-1. Download the latest `.jar` release from the [Releases](https://github.com/CoflAddons/CoflAddons) page.
-2. Drop it into your `.minecraft/mods` folder (Forge or Fabric).
-3. Launch Minecraft and enjoy the power of COFL Addons!
+1. Install [**Fabric Loader**](https://fabricmc.net/use/) for your Minecraft version.
+2. Download [**Fabric API**](https://modrinth.com/mod/fabric-api) (required) and [**Mod Menu**](https://modrinth.com/mod/modmenu) (recommended).
+3. Grab the latest `cofladdons-*.jar` from the [**Releases**](../../releases) page.
+4. Drop all `.jar` files into your `.minecraft/mods` folder.
+5. Launch Minecraft and enjoy.
+
+---
+
+## ⚙️ Configuration
+
+- Open settings from the **pause menu** → `CoflAddons`, or run `/cofladdons config`.
+- Bind keys for: show prices, open config, toggle alerts, toggle HUD, and view the latest flip (**Controls → CoflAddons**).
+- Export flips to your own **Discord webhook** from the config screen.
 
 ---
 
 ## 🧠 Requirements
 
-- Minecraft 1.8.9   
-- Forge or Fabric Loader  
+- **Minecraft 1.21.9+** *(more versions coming — see roadmap below)*
+- **Fabric Loader**
+- **Fabric API** (required) · **Mod Menu** (recommended)
 
+---
+
+## 🗺️ Roadmap
+
+- ✅ Minecraft 1.21.9
+- ⏳ Backports / forward support up to the latest release
 
 ---
 
 ## 🤝 Credits
 
-Maintained by the COFL Team ❤️  
-Massive thanks to the Hypixel SkyBlock community for feedback and support!
+Maintained by the **CoflAddons Team** ❤️
+Huge thanks to the Hypixel SkyBlock community for feedback and testing.
 
 ---
 
 ## 🛠️ Support & Community
 
-Join the **COFL Discord Server** for support, suggestions, or just to flex your flips!  
-[🌐 Click here to join](https://discord.gg/No Discord Yet
+Join the Discord for support, suggestions, or to flex your flips:
+
+**🌐 [Join the Discord](https://discord.gg/REPLACE_WITH_INVITE)** *(invite coming soon)*
 
 ---
 
 ## 📢 Disclaimer
 
-COFL Addons is a community-made project and is not affiliated with Hypixel. Use at your own risk.  
-We do **not** support cheating or breaking Hypixel’s rules.
+CoflAddons is a community project and is **not affiliated with Hypixel**. It is an informational/assistant tool — it surfaces data and alerts; **you** make every trade. We do not support cheating, automation, or breaking Hypixel's rules. Use at your own risk.
 
 ---
 
-💼 **Happy flipping, and stay safe out there!** 💼
+<div align="center">
 
+**💼 Happy flipping — and stay safe out there. 💼**
+
+</div>
