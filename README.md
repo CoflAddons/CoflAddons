@@ -50,7 +50,7 @@
 
 ## 🧠 Requirements
 
-- **Minecraft 1.21.9+-26.2** 
+- **Minecraft 1.21.9-26.2** 
 - **Fabric Loader**
 - **Fabric API** (required) · **Mod Menu** (recommended)
 
