@@ -50,7 +50,7 @@
 
 ## 🧠 Requirements
 
-- **Minecraft 1.21.9+** *(more versions coming — see roadmap below)*
+- **Minecraft 1.21.9+-26.2** 
 - **Fabric Loader**
 - **Fabric API** (required) · **Mod Menu** (recommended)
 
@@ -58,7 +58,6 @@
 
 ## 🗺️ Roadmap
 
-- ✅ Minecraft 1.21.9
 - ⏳ Backports / forward support up to the latest release
 
 ---
