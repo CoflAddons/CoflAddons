@@ -1,4 +1,4 @@
-<div align="center"><img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/aaaa383f-9679-4c9c-a7a8-a5eadf894f08" />
+<div align="center"> <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/aaaa383f-9679-4c9c-a7a8-a5eadf894f08" />
 
 
 # 💎 CoflAddons
