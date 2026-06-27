@@ -1,4 +1,5 @@
-<div align="center"> [<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/aaaa383f-9679-4c9c-a7a8-a5eadf894f08" />](https://chatgpt.com/s/m_6a4039e578f88191a554e50d1f318e62)
+<div align="center"> <img width="1254" height="1254" alt="ChatGPT Image Jun 27, 2026, 02_59_01 PM" src="https://github.com/user-attachments/assets/1141d7fe-9967-4294-8cc3-9408cd83c7d8" />
+
 
 
 # 💎 CoflAddons
